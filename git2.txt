@@ -1,0 +1,4 @@
+the followin are the working areas in local Git Tepo 
+i. working area
+ii. staging area
+iii. comit area
